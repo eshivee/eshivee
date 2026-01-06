@@ -6,22 +6,22 @@
 
 --!>
 
-🔭 I am a Data Engineer focused on building scalable, robust and reliable data pipelines with the goal of serving the data into query-ready formats.   
+🔭 I am a Data Engineer focused on building scalable, robust and reliable data pipelines with the goal of serving the data into query-ready formats.<br>
 
-🗃️ I am comfortable using modern data enigneering tools like Databricks in conjunction with Azure Cloud Services to solve your data needs.  
+🗃️ I am comfortable using modern data enigneering tools like Databricks in conjunction with Azure Cloud Services to solve your data needs.<br>  
 
-✨ In my journey so far, I have been opportuned to incorporate the follwoing concepts into my projects:  
+✨ In my journey so far, I have been opportuned to incorporate the follwoing concepts into my projects:<br>
 
-✅ Autoloader  
-✅ Delta Lake  
-✅ Spark Structured Streaming  
-✅ Workflows  
-✅ Slowly Changing Dimensions 1 and 2(with Delta Live Tables)  
-✅ Unity Catalog - Metastore  
-✅ Azure Data Factory  
-✅ Data Modelling  
+✅ Autoloader<br>
+✅ Delta Lake<br>
+✅ Spark Structured Streaming<br> 
+✅ Workflows<br>
+✅ Slowly Changing Dimensions 1 and 2(with Delta Live Tables)<br>
+✅ Unity Catalog - Metastore<br>
+✅ Azure Data Factory<br>
+✅ Data Modelling<br>
 
-👯 I'm looking to collaborate with other professionals on both long an d short term projects.  
+👯 I'm looking to collaborate with other professionals on both long an d short term projects.<br>
 
-📫 You can reach out to me via mail - eshivee@gmail.com
+📫 You can reach out to me via mail - eshivee@gmail.com<br>
 
