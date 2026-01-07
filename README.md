@@ -4,9 +4,9 @@
 
 --!>
 
-🔭 I am a Data Engineer focused on building scalable, robust and reliable data pipelines with the goal of serving the data into query-ready formats.I am comfortable using modern data enigneering tools like Databricks in conjunction with Azure Cloud Services to solve your data needs.<br> 
+🔭 I am a Data Engineer focused on building scalable, robust and reliable data pipelines with the goal of serving the data into query-ready formats. I am comfortable using modern data enigneering tools like Databricks in conjunction with Azure Cloud Services to solve your data needs.<br> 
 <br>
-✨ In my journey so far, I have been opportuned to incorporate the follwing concepts into my projects:<br>
+✨ In my journey so far, I have been opportuned to incorporate the following concepts into my projects:<br>
 <br>
 ✅ Autoloader<br>
 
